@@ -16,7 +16,7 @@ Il a été développé en JavaScript à l’aide de la bibliothèque Three.js da
 - Three.js
 - HTML / CSS
 - WebGL
-- Blender (pour les assets 3D si utilisés)
+- Blender
 
 ## Fonctionnalités
 - Affichage d’une scène 3D
